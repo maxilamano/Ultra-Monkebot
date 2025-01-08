@@ -1,0 +1,14 @@
+# Ignorar archivo de variables de entorno
+.env
+error2.txt
+log.txt
+poo_data.json
+requirements.txt
+
+# Ignorar carpetas específicas con todo su contenido
+respalf/
+_pycache_/
+
+# Ignorar contenido dentro de las carpetas incluso si hay subdirectorios
+_pycache_/**/*
+respalf/**/*
