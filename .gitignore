@@ -12,3 +12,6 @@ _pycache_/
 # Ignorar contenido dentro de las carpetas incluso si hay subdirectorios
 _pycache_/**/*
 respalf/**/*
+
+
+*.pyc
